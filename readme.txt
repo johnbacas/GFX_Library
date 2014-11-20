@@ -1,4 +1,4 @@
-This project contains some new versions of Adafruit Libraries (Adafruit_PCD8544, Adafruit_GFX)
+This project contains some modified versions of Adafruit Libraries (Adafruit_PCD8544, Adafruit_GFX)
 which respectively are named JBacas_PCD8544 & JBacas_GFX.
 
 The JBacas_PCD8544 Library can be found at: https://github.com/johnbacas/PCD8544_Nokia5110Library.git
